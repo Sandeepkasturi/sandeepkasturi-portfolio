@@ -1,4 +1,4 @@
-const baseURL = 'demo.once-ui.com'
+const baseURL = 'skavtech.wegic.app'
 
 // default customization applied to the HTML in the main layout.tsx
 const style = {
@@ -16,14 +16,14 @@ const style = {
 
 // default metadata
 const meta = {
-    title: 'Once UI - Your Personalized Design System for Next.js',
-    description: 'An open-source design system and component library for Next.js that emphasizes easy styling and accessibility in UI development.'
+    title: 'Sandeep Kasturi',
+    description: 'Founder of SKAV TECH and AI prompting Expert.'
 }
 
 
 // default open graph data
 const og = {
-    title: 'Once UI for Next.js',
+    title: 'Sandeep Kasturi',
     description: 'We let designers code and developers design.',
     type: 'website'
 }
@@ -32,16 +32,16 @@ const og = {
 const schema = {
     logo: '',
     type: 'Organization',
-    name: 'One UI',
-    description: 'Once UI is an open-source design system and component library for Next.js.',
+    name: 'SKAV TECH',
+    description: 'SKAV TECH is an AI Development and Application Development company, Focusing on NOCODE Development ideas.',
     email: 'lorant@once-ui.com'
 }
 
 // social links
 const social = {
-    twitter: 'https://www.twitter.com/_onceui',
-    linkedin: 'https://www.linkedin.com/company/once-ui/',
-    discord: 'https://discord.com/invite/5EyAQ4eNdS'
+    twitter: 'https://www.x.com/sandeepkasturi9',
+    linkedin: 'https://www.linkedin.com/in/sandeepkasturi9/',
+    discord: 'https://discord.com/invite/GnrQ2zhZ'
 }
 
 export { baseURL, style, meta, og, schema, social };
