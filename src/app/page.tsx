@@ -72,7 +72,7 @@ export default function Home() {
 								href="https://autobots.streamlit.app"
 								variant="secondary">
 								<Flex alignItems="center">
-									Run AutoBot ->
+									Run AutoBot 💀
 									<Arrow trigger="#readDocs"/>
 								</Flex>
 							</Button>
