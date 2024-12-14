@@ -8,19 +8,19 @@ import Link from 'next/link';
 export default function Home() {
 	const links = [
 		{
-			href: "https://once-ui.com/docs/theming",
-			title: "Themes",
-			description: "Style your app in minutes.",
+			href: "https://github.com/Sandeepkasturi?tab=repositories",
+			title: "Projects",
+			description: "Recent projects and my work.",
 		},
 		{
-			href: "https://once-ui.com/docs/flexComponent",
-			title: "Layout",
-			description: "Build responsive layouts.",
+			href: "https://skavtech.wegic.app",
+			title: "Company",
+			description: "Our Company and my Vision.",
 		},
 		{
-			href: "https://once-ui.com/docs/typography",
-			title: "Typography",
-			description: "Scale text automatically.",
+			href: "https://www.linkedin.com/in/sandeepkasturi9/",
+			title: "Experience",
+			description: "My Experience and Linkedin profile.",
 		},
 	];
 
@@ -55,7 +55,7 @@ export default function Home() {
 									width: 'fit-content',
 									padding: 'var(--static-space-8) var(--static-space-16)',
 									backdropFilter: 'blur(var(--static-space-1))'}}>
-								Start by editing <span className="brand-on-background-medium">app/page.tsx</span>
+								Start AutoBot AI <span className="brand-on-background-medium">Immensive Code Editor and Hands on AI developer</span>
 							</InlineCode>
 							<Heading
 								wrap="balance"
@@ -69,10 +69,10 @@ export default function Home() {
 							</Heading>
 							<Button
 								id="readDocs"
-								href="https://once-ui.com/docs"
+								href="https://autobots.streamlit.app"
 								variant="secondary">
 								<Flex alignItems="center">
-									Read docs
+									Run AutoBot ->
 									<Arrow trigger="#readDocs"/>
 								</Flex>
 							</Button>
@@ -121,17 +121,17 @@ export default function Home() {
 				justifyContent="space-between">
 				<Text
 					variant="body-default-s" onBackground="neutral-weak">
-					© 2024 Once UI, <Link href="https://github.com/once-ui-system/nextjs-starter?tab=MIT-1-ov-file">MIT License</Link>
+					© 2024 Sandeep Kasturi, <Link href="https://skavtech.wegic.app/about">SKAV TECH</Link>
 				</Text>
 				<Flex
 					gap="12">
 					<Button
-						href="https://github.com/once-ui-system/nextjs-starter"
+						href="https://github.com/sandeepkasturi"
 						prefixIcon="github" size="s" variant="tertiary">
 						GitHub
 					</Button>
 					<Button
-						href="https://discord.com/invite/5EyAQ4eNdS"
+						href="https://discord.gg/GnrQ2zhZ"
 						prefixIcon="discord" size="s" variant="tertiary">
 						Discord
 					</Button>
