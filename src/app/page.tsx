@@ -22,6 +22,19 @@ export default function Home() {
 			title: "Experience",
 			description: "My Experience and Linkedin profile.",
 		},
+		
+		{
+			href: "https://sandeepkasturi.vercel.app/contact-us",
+			title: "Contact Us",
+			description: "Contact us here",
+		},
+		
+		{
+			href: "https://sandeepkasturi.vercel.app/terms-conditions",
+			title: "Terms & Conditions",
+			description: "Terms and Conditions here.",
+		},
+		
 	];
 
 	return (
